@@ -1,6 +1,6 @@
 ## Hi there 🎉
 
-### Usefull projects:
+### Useful projects:
  - <a href="https://github.com/nexus9111/personal_api_base">🔒 NodeJS REST API base</a>
 
 ### Projects
