@@ -4,21 +4,21 @@
 ![github](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![github](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🔀 Versioning:
+### 🔀 Versioning:
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub)
 ![github](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab)
-#### 🎨 Frontend:
+### 🎨 Frontend:
 ![github](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-#### 🚀 Backend:
+### 🚀 Backend:
 ![github](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![github](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express)
-#### 📚 Database:
+### 📚 Database:
 ![github](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
-#### 🔎 Monitoring:
+### 🔎 Monitoring:
 ![github](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic)
-#### 📦 Virtualization
+### 📦 Virtualization
 ![github](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-#### 💾 Operating System
+### 💾 Operating System
 ![github](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=Apple&logoColor=white)
 ![github](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![github](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
