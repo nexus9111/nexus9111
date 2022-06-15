@@ -27,9 +27,9 @@
 ![github](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 #### 🔎 Monitoring:
 ![github](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic)
-#### 📦 Virtualization
+#### 📦 Virtualization:
 ![github](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-#### 💾 Operating System
+#### 💾 Operating System:
 ![github](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=Apple&logoColor=white)
 ![github](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![github](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
