@@ -36,3 +36,9 @@
 ![github](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white)
 ![github](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
  
+
+## GitHub Stats
+  
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nexus9111&show_icons=true&locale=en&layout=compact&theme=onedark" alt="nexus9111" /></p>
+
+<p><img  src="https://github-readme-stats.vercel.app/api?username=nexus9111&show_icons=true&locale=en&theme=onedark" alt="nexus9111" /></p>  
