@@ -1,11 +1,11 @@
 # 💫About Me :
-🔭 I’m currently working on my Skills.
-🌱 I’m currently learning more about Web Development.
-🤔 I’m looking for help with Exploring New Technologies.
-💬 Ask me about any Backend stuff.
-📫 How to reach me: Email - contact@joss-coupet.eu
-😄 Pronouns: He/His
-⚡ Fun fact: My favourite song is Galatée by Nekfeu.
+- 🔭 I’m currently working on my Skills.
+- 🌱 I’m currently learning more about Web Development.
+- 🤔 I’m looking for help with Exploring New Technologies.
+- 💬 Ask me about any Backend stuff.
+- 📫 How to reach me: Email - contact@joss-coupet.eu
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: My favourite song is Galatée by Nekfeu.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joss-coupet/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@are_y0u_a_one?lang=fr) 
