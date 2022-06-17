@@ -20,9 +20,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=nexus9111&icon=0&color=7)](https://visitcount.itsvg.in)
-
 ## Projects
 
 ### Reusable projects:
@@ -31,3 +28,6 @@
 ### Projects
  - <a href="https://github.com/nexus9111/travel_ticket_project_IUT">🛫 NodeJS dut project</a>
  - <a href="https://github.com/nexus9111/api_webmarket_nodejs">🛒 NodeJS webmarket API</a>
+
+---
+[![](https://visitcount.itsvg.in/api?id=nexus9111&icon=0&color=7)](https://visitcount.itsvg.in)
