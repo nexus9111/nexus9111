@@ -24,7 +24,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## Projects
+## 📝 Projects
 
 ### Reusable projects:
  - <a href="https://github.com/nexus9111/personal_api_boilerplate">🔒 NodeJS REST API boilerplate</a>
