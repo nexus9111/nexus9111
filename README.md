@@ -32,6 +32,7 @@
 ### Projects
  - <a href="https://github.com/nexus9111/travel_ticket_project_IUT">🛫 NodeJS dut project</a>
  - <a href="https://github.com/nexus9111/api_webmarket_nodejs">🛒 NodeJS webmarket API</a>
+ - <a href="https://github.com/nexus9111/CPOO-Alarm-System">🚨 JAVA alarme system project</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nexus9111&icon=0&color=7)](https://visitcount.itsvg.in)
