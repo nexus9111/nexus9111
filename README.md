@@ -25,6 +25,7 @@
  - <a href="https://github.com/nexus9111/travel_ticket_project_IUT">🛫 NodeJS dut project</a>
  - <a href="https://github.com/nexus9111/api_webmarket_nodejs">🛒 NodeJS webmarket API</a>
  - <a href="https://github.com/nexus9111/CPOO-Alarm-System">🚨 JAVA alarme system project</a>
+ - <a href="https://github.com/nexus9111/send-mail-node">📫 Mail sender NodeJS</a>
 
 ---
 
