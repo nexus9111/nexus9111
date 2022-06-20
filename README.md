@@ -26,6 +26,8 @@
  - <a href="https://github.com/nexus9111/api_webmarket_nodejs">🛒 NodeJS webmarket API</a>
  - <a href="https://github.com/nexus9111/CPOO-Alarm-System">🚨 JAVA alarme system project</a>
 
+---
+
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=nexus9111&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nexus9111&theme=gruvbox&hide_border=false)<br/>
