@@ -3,7 +3,7 @@
 
 ## 💫 About Me :
 - 🔭 I’m currently working on my Skills.
-- 🌱 I’m currently learning more about Web Development.
+- 🌱 I’m currently learning more Go (<a href="https://exercism.org/profiles/nexus9111">exercism</a>).
 - 🤔 I’m looking for help with Exploring New Technologies.
 - 💬 Ask me about any Backend stuff.
 - 📫 How to reach me: Email - contact@joss-coupet.eu
