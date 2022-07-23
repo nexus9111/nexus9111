@@ -8,7 +8,7 @@
 - 💬 Ask me about any Backend stuff.
 - 📫 How to reach me: Email - contact@joss-coupet.eu
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: My favourite song is Galatée by Nekfeu.
+- ⚡ Fun fact: My favourite song to code is "Nirvana - Smells Like Teen Spirit (Psytrance Pondora Remix)" !
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joss-coupet/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@are_y0u_a_one?lang=fr) 
