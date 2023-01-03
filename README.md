@@ -20,6 +20,7 @@
 
 ### Reusable projects:
  - <a href="https://github.com/nexus9111/personal_api_boilerplate">🔒 NodeJS REST API boilerplate</a>
+ - <a href="https://github.com/nexus9111/go_api_rest_boilerplate">🔒 Go REST API boilerplate</a>
 
 ### Projects
  - <a href="https://github.com/nexus9111/geometrie_api">🐙 Géométrie API</a>
