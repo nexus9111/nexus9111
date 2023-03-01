@@ -31,7 +31,6 @@
  - <a href="https://github.com/nexus9111/api_webmarket_nodejs">🛒 NodeJS webmarket API</a>
  - <a href="https://github.com/nexus9111/CPOO-Alarm-System">🚨 JAVA alarme system project</a>
  - <a href="https://github.com/nexus9111/send-mail-node">📫 Mail sender NodeJS</a>
- - <a href="https://github.com/nexus9111/mise-situation-dev-supdevinci">🌍 Company information website</a>: school project, I had to use gouv api to create a company informations user interface
 
 ---
 
