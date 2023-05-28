@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joss</h1>
 <h3 align="center">A passionate web developer from France</h3>
 
-<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" align="center" width="700">
+<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" align="center" width="1000">
 
 ## 💫 About Me :
 - 🔭 I’m currently working on my Skills.
