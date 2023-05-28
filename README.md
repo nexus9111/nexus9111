@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joss</h1>
 <h3 align="center">A passionate web developer from France</h3>
 
+<div class="tenor-gif-embed" data-postid="26522638" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hacker-gif-26522638">Hacker GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## 💫 About Me :
 - 🔭 I’m currently working on my Skills.
 - 🤔 I’m looking for help with Exploring New Technologies.
