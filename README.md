@@ -3,7 +3,6 @@
 
 ## 💫 About Me :
 - 🔭 I’m currently working on my Skills.
-- 🌱 I’m currently learning more Go (<a href="https://exercism.org/profiles/nexus9111">exercism</a>).
 - 🤔 I’m looking for help with Exploring New Technologies.
 - 💬 Ask me about any Backend stuff.
 - 📫 How to reach me: Email - contact@joss-coupet.eu
@@ -25,11 +24,7 @@
  - <a href="https://github.com/nexus9111/react-boilerplate">🔒 React boilerplate</a>
 
 ### Projects
- - <a href="https://github.com/nexus9111/geometrie_api">🐙 Géométrie API</a>
  - <a href="https://github.com/nexus9111/personal-exercism-go">🧠 Go Exercism Exercises</a>
- - <a href="https://github.com/nexus9111/travel_ticket_project_IUT">🛫 NodeJS dut project</a>
- - <a href="https://github.com/nexus9111/api_webmarket_nodejs">🛒 NodeJS webmarket API</a>
- - <a href="https://github.com/nexus9111/CPOO-Alarm-System">🚨 JAVA alarme system project</a>
  - <a href="https://github.com/nexus9111/send-mail-node">📫 Mail sender NodeJS</a>
 
 ---
