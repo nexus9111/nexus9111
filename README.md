@@ -17,7 +17,6 @@
 ## 🌍 Public websites
 
 - <a href="https://joss-coupet.eu">✨My resume</a> : just me
-- <a href="https://quizzy.joss-coupet.eu/welcome">📚Vocabulary learning</a> : designed to help people learn vocabulary in a foreign language. It was created specifically to assist my girlfriend in studying for her foreign language exams. It is a functional version created in a few hours (maybe 5)
 
 ## 📝 Projects
 
