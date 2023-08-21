@@ -23,6 +23,7 @@
 ### Reusable projects:
  - <a href="https://github.com/nexus9111/personal_api_boilerplate">🔒 NodeJS REST API boilerplate</a>
  - <a href="https://github.com/nexus9111/react-boilerplate">🔒 React boilerplate</a>
+ - <a href="https://github.com/nexus9111/vps-kickstart">🔒 DevOps VPS Kickstart</a>
 
 ### Projects
  - <a href="https://github.com/nexus9111/personal-exercism-go">🧠 Go Exercism Exercises</a>
