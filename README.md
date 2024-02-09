@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joss</h1>
-<h3 align="center">A passionate web developer from France</h3>
+<h3 align="center">A passionate web DevOps from France</h3>
 
 <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" align="center" width="1000">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/joss006.png" alt="TryHackMe">
 
 ## 💫 About Me :
 - 🔭 I’m currently working on my Skills.
