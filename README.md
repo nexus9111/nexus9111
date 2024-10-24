@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joss</h1>
-<h3 align="center">A passionate web DevOps from France</h3>
+<h3 align="center">A passionate Full-Stack & DevOps from France</h3>
 
 <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" align="center" width="1000">
 
