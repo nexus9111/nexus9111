@@ -27,9 +27,16 @@
 
 ---
 
-<summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">📅 Recent Activity</summary>
+<div align="center">
+  <a href="https://1999azzar.github.io/nexus9111/" target="_blank">
+    <img src="/resources/grid-snake.svg" alt="Azzar Logo"
+         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+  </a>
+</div>
+
+<details>
   <div align="center">
-    <a href="https://github.com/9111" target="_blank">
+    <a href="https://github.com/nexus9111" target="_blank">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexus9111&theme=github-compact&hide_border=true" alt="Activity Graph" style="border-radius: 10px; margin: 0 5px;">
     </a>
   </div>
