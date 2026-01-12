@@ -26,7 +26,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nexus9111&theme=gruvbox&hide_border=false)
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-[![](https://visitcount.itsvg.in/api?id=nexus9111&icon=0&color=7)](https://visitcount.itsvg.in)
+<summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">📅 Recent Activity</summary>
+  <div align="center">
+    <a href="https://github.com/1999AZZAR" target="_blank">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexus9111&theme=github-compact&hide_border=true" alt="Activity Graph" style="border-radius: 10px; margin: 0 5px;">
+    </a>
+  </div>
+</details>
